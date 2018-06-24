@@ -3,6 +3,10 @@ body{
 }
 .container{
     border: 6px solid black;
+    display: flex;
+    flex-direction: column;
+    height: 800px;
+    justify-content: space-start;
 }
 
 .flex-item{
