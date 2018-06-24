@@ -1,3 +1,40 @@
-flex-item {
-    color: green;
+body{
+    margin: 0;
+}
+.container{
+    border: 6px solid black;
+}
+
+.flex-item{
+    color: white;
+    font-size: 1.5rem;
+    padding: 1rem;
+    text-align: center;
+}
+.item-1{
+    background-color: greenyellow;
+}
+.item-2{
+    background-color: green;
+}
+.item-3{
+    background-color: yellow;
+}
+.item-4{
+    background-color: orange;
+}
+.item-5{
+    background-color: red;
+}
+.item-6{
+    background-color: purple;
+}
+.item-7{
+    background-color: burlywood;
+}
+.item-8{
+    background-color: brown;
+}
+.item-9{
+    background-color: hotpink;
 }
